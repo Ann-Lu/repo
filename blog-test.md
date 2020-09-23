@@ -17,8 +17,11 @@ If you don't turn your life into a story, you just become a part of someone's st
 ![我要成为优秀的女孩子](我要成为优秀的女孩子.jpg)
 
 ### 随便写点什么
+这是jQuery  
+`$(document).ready();`
+这是HTML
 ```html
-！<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
