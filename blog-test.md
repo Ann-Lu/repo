@@ -19,6 +19,7 @@ If you don't turn your life into a story, you just become a part of someone's st
 ### 随便写点什么
 这是jQuery  
 `$(document).ready();`
+
 这是HTML
 ```html
 <!DOCTYPE html>
