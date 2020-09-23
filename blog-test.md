@@ -6,9 +6,9 @@
 * 养生
 
 ### 2、喜欢的明星
-* 李宇春
-* 白敬亭
-* 王嘉尔
+* [李宇春](https://weibo.com/liyuchun)
+* [白敬亭](https://weibo.com/u/2112496475)
+* [王嘉尔](https://weibo.com/jacksonwangG7?is_hot=1)
 ### 3、分享最近看到的一句话 
 If you don't turn your life into a story, you just become a part of someone's story.
 ### 4、对自己的期望
@@ -31,6 +31,8 @@ If you don't turn your life into a story, you just become a part of someone's st
 </body>
 </html>
 ```
-这简直是满分作文哈哈哈
+这简直是满分作文哈哈哈！
+
+未经允许，不得转载!
 
 
