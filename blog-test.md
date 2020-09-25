@@ -14,7 +14,7 @@ If you don't turn your life into a story, you just become a part of someone's st
 ### 4、对自己的期望
 不要好高骛远，不要心浮气躁，不要自欺欺人。
 
-![我要成为优秀的女孩子](https://github.com/Ann-Lu/repo/blob/master/8.github%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93/blog-test.md)
+![我要成为优秀的女孩子](https://github.com/Ann-Lu/repo/blob/master/%E6%88%91%E8%A6%81%E6%88%90%E4%B8%BA%E4%BC%98%E7%A7%80%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%AD%90.jpg)
 
 ### 随便写点什么
 这是jQuery  
